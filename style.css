@@ -1,0 +1,27 @@
+.container {
+    font-variant: small-caps;
+}
+.my-div {
+    text-align: center;
+    font-variant: small-caps;
+    margin-top: 20%;
+    color:black; 
+}
+body {
+    background-image: url(images/body.jpg);
+    background-size: cover;
+    background-position: center;
+    font-variant:small-caps;
+    
+}
+h1,h3 {
+    padding:5px;
+}
+p {
+    margin:20px;
+    text-align: justify;
+}
+footer {
+    text-align: center;
+   
+}
